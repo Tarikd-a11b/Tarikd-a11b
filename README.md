@@ -30,7 +30,6 @@ I am a Management Information Systems (MIS) student at Bakırçay University, fo
 ---
 
 ### 📂 Featured Projects
-* **[Müsaitlik](https://github.com/Tarikd-a11b)**: A digital appointment management system for MIS351 Project Management course.
 * **[ElectroMarkt](https://github.com/Tarikd-a11b/ElectroMarkt-Project)**: A Firebase-powered e-commerce web application.
 * **[Hospital System](https://github.com/Tarikd-a11b/HASTANE-Proje)**: A multi-role (Doctor/Patient/Secretary) appointment system developed in C#.
 
