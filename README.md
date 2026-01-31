@@ -32,6 +32,7 @@ I am a Management Information Systems (MIS) student at Bakırçay University, fo
 ### 📂 Featured Projects
 * **[ElectroMarkt](https://github.com/Tarikd-a11b/ElectroMarkt-Project)**: A Firebase-powered e-commerce web application.
 * **[Hospital System](https://github.com/Tarikd-a11b/HASTANE-Proje)**: A multi-role (Doctor/Patient/Secretary) appointment system developed in C#.
+* **[Adidas Sales](https://github.com/Tarikd-a11b/PowerBI-Sales-Analysis)**:Adidas sales analysis with PowerBı. 
 
 ---
 
