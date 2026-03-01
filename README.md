@@ -38,4 +38,4 @@ I am a Management Information Systems (MIS) student at Bakırçay University, fo
 
 ### 📫 Connect with me
 - 📧 [221005030@bakircay.edu.tr](mailto:221005030@bakircay.edu.tr)
-- 📝 Check out my articles on Medium (coming soon!)
+- 📝 Check out my articles on Medium ("https://medium.com/@bilaltarikd")
